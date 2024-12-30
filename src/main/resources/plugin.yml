@@ -1,0 +1,8 @@
+name: UHC-Oxidayzz
+author: Oxidayzz
+version: 0.1
+main: fr.oxidayzz.uhc.Main
+description: Plugin UHC (UltraHardCore) crée par Oxidayzz
+commands:
+  bypass:
+  uhc:

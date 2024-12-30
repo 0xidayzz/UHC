@@ -1,0 +1,36 @@
+messages:
+  prefix: "&e&lUHC :"
+
+  joinGameMessageServer: " &fLe joueur &e&l{PLAYER} &fvient de &a&lrejoindre &fla partie !"
+  joinGameMessagePlayer: " &fVous venez de &a&lrejoindre &fla partie en tant que &d&ljoueurs !"
+  quitGameMessageServer: " &fLe joueur &e&l{PLAYER] &fvient de &c&lquitter &fla partie !"
+  quitGameMessagePlayer: " &fVous venez de &c&lquitter &fla partie en tant que &d&ljoueurs !"
+
+  joinSpectatorMessageServer: " &7Le joueur &b&l{PLAYER} &7a est passé en mode spectateur !"
+  joinSpectatorMessagePlayer: " &7Vous passez en mode spectateur !"
+  quitSpectatorMessageServer: " &7Le joueur &b&l{PLAYER} &7a a quitté le mode spectateur !"
+  quitSpectatorMessagePlayer: " &7Vous etes sortie du mode spectateur !"
+
+  joinModeratorMessageServer: " &7Le joueurs &2&l{PLAYER} &f a &a&lrejoint le mode &2&lmodération &f!"
+  joinModeratorMessagePlayer: " &fVous avez &a&lrejoint &fle mode &2&lmodération &f!"
+  quitModeratorMessageServer: " &7Le joueurs &2&l{PLAYER} &f a &c&lquitté le mode &2&lmodération &f!"
+  quitModeratorMessagePlayer: " &fVous avez &c&lquitté le mode &2&lmodération &f!"
+
+  joinBypassMessagePlayer: " &fVous avez &a&lactivé §fvotre mode &c&lBYPASS &f!"
+  quitBypassMessagePlayer: " &fVous avez &c&lquitté §fvotre mode &c&lBYPASS &f!"
+
+
+  senderIsNotPlayer: " &c§lSeul un joueurs peut exécuter cette commandes !"
+  playerHaveNotPermission: "§c§lVous n'avez pas la permission !"
+
+  utilisationUHCCommand: " &cVeuilez renseigne un argument : &7Utilisation /uhc start|stop"
+  startGameMessageServer: " &fLe joueur &e&l{PLAYER} &fa &a&llancé &fla partie !"
+  startGameMessagePlayer: " &fVous venez de &a&llancé &fla partie !"
+  stopGameMessageServer: " &fLa partie a été &c&lstoppé &fpar : &e&l{PLAYER}"
+  stopGameMessagePlayer: " &fVous venez de &c&lstoppé &fla partie !"
+  ErrorStopGame: " &cVous ne pouvez pas stoppé la partie vue qu'elle n'a pas commencé !"
+
+
+
+
+
